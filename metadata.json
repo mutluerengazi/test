@@ -1,0 +1,6 @@
+{
+  "name": "sr test token",
+  "symbol": "SRWAA",
+  "description": "Example token for test sr.",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
